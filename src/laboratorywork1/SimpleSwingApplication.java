@@ -1,4 +1,4 @@
-package Laboratory_work1;
+package laboratorywork1;
 
 import javax.swing.*;
 
